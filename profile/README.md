@@ -10,11 +10,11 @@ _ZenGuard bets on a standardized modular smart account ecosystem for module inte
 
 ### Module Development:
 - [Module template](https://github.com/zenguardxyz/module-template) - Template to kickstart the module development, tests, and deployment
-- [Module Publish Dashboard](https://github.com/zenguardxyz/dashboard) - Dashboard to verify devs and publish the module
+- [Module Publish Dashboard](https://dashboard.zenguard.xyz) - Dashboard to verify devs and publish the module
 
 
 ### Module Security:
-- [Module Security Attestation Dashboard](https://github.com/zenguardxyz/dashboard) - Dashboard to verify auditors and add module audit attestations
+- [Module Security Attestation Dashboard](https://dashboard.zenguard.xyz) - Dashboard to verify auditors and add module audit attestations
 
 ### Module Distribution:
 - [Module Marketplace/ Registry](https://github.com/zenguardxyz/explore) - Explorer and module app store for Safe Wallet users
